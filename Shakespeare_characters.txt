@@ -1,0 +1,1534 @@
+Speaker		Gender	NumLines	Play	TopVillain	Fools
+Hamlet		Male	1506	Hamlet		
+Iago		Male	1088	Othello	yes	
+King Henry		Male	1031	Henry V		
+Othello		Male	880	Othello		
+Timon		Male	850	Timon of Athens		
+Duke		Male	847	Measure for Measure		
+Antony		Male	839	Antony and Cleopatra		
+Lear		Male	749	King Lear		
+King Edward		Male	748	King Edward III		
+Brutus		Male	722	Julius Caesar		
+Macbeth		Male	715	Macbeth	yes	
+Titus		Male	711	Titus Andronicus		
+Leontes		Male	686	The Winter's Tale		
+Richard		Male	685	Richard III	yes	
+Rosalind		Female	685	As You Like It		
+Cleopatra		Female	678	Antony and Cleopatra		
+Coriolanus		Male	675	Coriolanus		
+Prospero		Male	656	The Tempest		
+Falstaff		Male	641	Henry IV Part 2		fool
+Romeo		Male	617	Romeo and Juliet		
+Pericles		Male	602	Pericles		
+Falstaff		Male	602	Henry IV Part 1		fool
+Innogen		Female	594	Cymbeline		
+Palamon		Male	593	The Two Noble Kinsmen		
+Berowne		Male	592	Love's Labour's Lost		
+Petruchio		Male	589	The Taming of the Shrew		
+Menenius		Male	578	Coriolanus		
+Portia		Female	574	The Merchant of Venice		
+Prince Hal		Male	572	Henry IV Part 1		
+Hotspur		Male	559	Henry IV Part 1		
+King		Male	552	Hamlet		
+Juliet		Female	542	Romeo and Juliet		
+Troilus		Male	537	Troilus and Cressida		
+Bastard		Male	523	King John		
+Arcite		Male	521	The Two Noble Kinsmen		
+Cassius		Male	507	Julius Caesar		
+Ulysses		Male	485	Troilus and Cressida		
+Helena		Female	478	All's Well That Ends Well		
+King Richard		Male	466	Richard III		
+King Richard		Male	463	Richard II		
+King Henry		Male	459	Henry VIII		
+Proteus		Male	446	The Two Gentlemen of Verona		
+Posthumus		Male	442	Cymbeline		
+Falstaff		Male	438	The Merry Wives of Windsor		
+King John		Male	437	King John		
+Wolsey		Male	437	Henry VIII		
+Warwick		Male	435	Henry VI Part 3		
+Benedick		Male	430	Much Ado About Nothing		
+Iachimo		Male	430	Cymbeline		
+Edward		Male	428	Henry VI Part 3		
+Isabella		Female	424	Measure for Measure		
+Caesar		Male	419	Antony and Cleopatra		
+Pandarus		Male	414	Troilus and Cressida		
+Talbot		Male	406	Henry VI Part 1		
+Edgar		Male	392	King Lear		
+Desdemona		Female	391	Othello		
+Valentine		Male	391	The Two Gentlemen of Verona		
+Richard		Male	390	Henry VI Part 3		
+King		Male	380	All's Well That Ends Well		
+York		Male	379	Henry VI Part 2		
+Emilia		Female	374	The Two Noble Kinsmen		
+Buckingham		Male	374	Richard III		
+Parolles		Male	373	All's Well That Ends Well		
+Kent		Male	368	King Lear		
+King		Male	363	Henry VI Part 3		
+Aaron		Male	357	Titus Andronicus	yes	
+Polonius		Male	357	Hamlet		
+Shylock		Male	352	The Merchant of Venice		
+Enobarbus		Male	346	Antony and Cleopatra		
+Leonato		Male	344	Much Ado About Nothing		
+Sir Toby		Male	343	Twelfth Night		
+King Henry		Male	339	Henry IV Part 1		
+Gloucester		Male	338	King Lear		
+Bassanio		Male	336	The Merchant of Venice		
+Belarius		Male	336	Cymbeline		
+Viola		Female	335	Twelfth Night		
+Paulina		Female	332	The Winter's Tale		
+Friar		Male	332	Romeo and Juliet		
+Antony		Male	329	Julius Caesar		
+Marcus		Male	329	Titus Andronicus		
+Mistress Page		Female	328	The Merry Wives of Windsor		
+Theseus		Male	328	The Two Noble Kinsmen		
+Daughter		Female	324	The Two Noble Kinsmen		
+Bolingbroke		Male	324	Richard II		
+Don Pedro		Male	323	Much Ado About Nothing		
+Julia		Female	322	The Two Gentlemen of Verona		
+Angelo		Male	320	Measure for Measure		
+Queen		Female	316	Henry VI Part 2		
+Olivia		Female	314	Twelfth Night		
+King		Male	314	Henry VI Part 2		
+Prince Henry		Male	313	Henry IV Part 2		
+King		Male	311	Love's Labour's Lost		
+Volumnia		Female	311	Coriolanus		
+Gower		Male	307	Pericles		
+Edmund		Male	307	King Lear	yes	
+Feste		Male	306	Twelfth Night		fool
+Gloucester		Male	303	Henry VI Part 2		
+Sicinius		Male	302	Coriolanus		
+Orlando		Male	301	As You Like It		
+Cressida		Female	301	Troilus and Cressida		
+Ford		Male	300	The Merry Wives of Windsor		
+Suffolk		Male	298	Henry VI Part 2		
+Camillo		Male	298	The Winter's Tale		
+Lucio		Male	296	Measure for Measure		
+Horatio		Male	294	Hamlet		
+Richard		Male	293	Richard II		
+King Henry Iv		Male	291	Henry IV Part 2		
+Antipholus Of Syracuse		Male	291	The Comedy of Errors		
+Tranio		Male	291	The Taming of the Shrew		
+Countess		Female	291	All's Well That Ends Well		
+Autolycus		Male	291	The Winter's Tale		fool
+Cymbeline		Male	290	Cymbeline	yes	
+Princess		Female	288	Love's Labour's Lost		
+York		Male	286	Richard II		
+Thersites		Male	283	Troilus and Cressida		fool
+Touchstone		Male	283	As You Like It		fool
+Celia		Female	282	As You Like It		
+Claudio		Male	282	Much Ado About Nothing		
+Malvolio		Male	281	Twelfth Night		
+Prince		Male	281	King Edward III		
+Queen		Female	279	Henry VI Part 3		
+Beatrice		Female	279	Much Ado About Nothing		
+Cominius		Male	278	Coriolanus		
+Fluellen		Male	278	Henry V		
+Bertram		Male	277	All's Well That Ends Well		
+Nurse		Female	277	Romeo and Juliet		
+Lafew		Male	276	All's Well That Ends Well		
+Aufidius		Male	274	Coriolanus		
+Cassio		Male	274	Othello		
+Capulet		Male	272	Romeo and Juliet		
+Polixenes		Male	272	The Winter's Tale		
+Queen Elizabeth		Female	272	Richard III		
+King John		Male	271	King Edward III		
+Constance		Female	264	King John		
+Adriana		Female	263	The Comedy of Errors		
+Queen Katherine		Female	261	Henry VIII		
+Cloten		Male	260	Cymbeline		
+Lady		Female	259	Macbeth		
+Mercutio		Male	259	Romeo and Juliet		
+Tamora		Female	257	Titus Andronicus	yes	
+Bottom		Male	255	A Midsummer Night's Dream		fool
+Pucelle		Female	254	Henry VI Part 1		
+Apemantus		Male	249	Timon of Athens		
+Brutus		Male	246	Coriolanus		
+Dromio Of Syracuse		Male	244	The Comedy of Errors		
+Emilia		Female	243	Othello		
+Cade		Male	238	Henry VI Part 2		
+Mistress Quickly		Female	236	The Merry Wives of Windsor		
+Armado		Male	235	Love's Labour's Lost		
+Theseus		Male	235	A Midsummer Night's Dream		
+Helena		Female	230	A Midsummer Night's Dream		
+Fool		Male	227	King Lear		fool
+Boyet		Male	227	Love's Labour's Lost		
+Oberon		Male	225	A Midsummer Night's Dream		
+Canterbury		Male	224	Henry V		
+Chorus		Male	223	Henry V		
+Katherina		Female	221	The Taming of the Shrew		
+Jaques		Male	221	As You Like It		
+Orsino		Male	220	Twelfth Night		
+Queen Margaret		Female	218	Richard III		
+Pisanio		Male	217	Cymbeline		
+Evans		Male	217	The Merry Wives of Windsor		
+Countess		Female	214	King Edward III		
+Hector		Male	213	Troilus and Cressida		
+Antipholus Of Ephesus		Male	212	The Comedy of Errors		
+Martius		Male	212	Coriolanus		
+Norfolk		Male	211	Henry VIII		
+Malcolm		Male	211	Macbeth		
+Hermione		Female	211	The Winter's Tale		
+Laertes		Male	210	Hamlet		
+Saturninus		Male	210	Titus Andronicus		
+King Philip		Male	209	King John		
+Hortensio		Male	208	The Taming of the Shrew		
+Puck		Male	206	A Midsummer Night's Dream		fool
+Flavius		Male	205	Timon of Athens		
+Florizel		Male	205	The Winter's Tale		
+Hubert		Male	204	King John		
+Launce		Male	201	The Two Gentlemen of Verona		fool
+Duke		Male	200	The Two Gentlemen of Verona		
+Gonerill		Female	199	King Lear		
+Speed		Male	196	The Two Gentlemen of Verona		fool
+Ariel		Male	196	The Tempest		
+Shallow		Male	195	Henry IV Part 2		
+Agamemnon		Male	195	Troilus and Cressida		
+Clown		Male	195	All's Well That Ends Well		fool
+Mistress Ford		Female	192	The Merry Wives of Windsor		
+John Of Gaunt		Male	192	Richard II		
+Buckingham		Male	192	Henry VIII		
+Achilles		Male	191	Troilus and Cressida		
+Costard		Male	190	Love's Labour's Lost		
+Regan		Female	190	King Lear	yes	
+Marina		Female	190	Pericles		
+Worcester		Male	189	Henry IV Part 1		
+Escalus		Male	189	Measure for Measure		
+Lucentio		Male	189	The Taming of the Shrew		
+Antonio		Male	188	The Merchant of Venice		
+Richard		Male	184	Henry VI Part 1		
+Gloucester		Male	183	Henry VI Part 1		
+Clown		Male	183	The Winter's Tale		
+Macduff		Male	180	Macbeth		
+Lorenzo		Male	180	The Merchant of Venice		
+Lysander		Male	179	A Midsummer Night's Dream		
+King		Male	179	Henry VI Part 1		
+Lucius		Male	179	Titus Andronicus		
+Caliban		Male	178	The Tempest		
+Gratiano		Male	177	The Merchant of Venice		
+Dogberry		Male	176	Much Ado About Nothing		
+Suffolk		Male	174	Henry VI Part 1		
+Baptista		Male	174	The Taming of the Shrew		
+First Lord		Male	173	All's Well That Ends Well		
+York		Male	173	Henry VI Part 3		
+Ophelia		Female	173	Hamlet		
+Hostess		Female	171	Henry IV Part 2		
+Grumio		Male	168	The Taming of the Shrew		fool
+Queen		Female	168	Cymbeline		
+Stephano		Male	168	The Tempest		
+Gremio		Male	167	The Taming of the Shrew		
+Provost		Male	166	Measure for Measure		
+Rosaline		Female	165	Love's Labour's Lost		
+Holofernes		Male	164	Love's Labour's Lost		
+Hermia		Female	164	A Midsummer Night's Dream		
+Guiderius		Male	164	Cymbeline		
+Cardinal Pandulph		Male	164	King John		
+Launcelot		Male	163	The Merchant of Venice		
+Clarence		Male	163	Richard III		
+Sir Andrew		Male	162	Twelfth Night		
+Pistol		Male	162	Henry V		
+Gonzalo		Male	161	The Tempest		
+Benvolio		Male	161	Romeo and Juliet		
+Lord Chief Justice		Male	160	Henry IV Part 2		
+Salisbury		Male	159	King John		
+Albany		Male	159	King Lear		
+Alcibiades		Male	159	Timon of Athens		
+Silvia		Female	158	The Two Gentlemen of Verona		
+Nestor		Male	157	Troilus and Cressida		
+Queen		Female	157	Hamlet		
+Anne		Female	157	Richard III		
+Simonides		Male	157	Pericles		
+Pompey		Male	156	Measure for Measure		fool
+Dromio Of Ephesus		Male	154	The Comedy of Errors		
+Mote		Male	154	Love's Labour's Lost		
+Miranda		Female	153	The Tempest		
+Antonio		Male	151	The Tempest		
+Caesar		Male	151	Julius Caesar		
+Lord Chamberlain		Male	150	Henry VIII		
+Page		Male	149	The Merry Wives of Windsor		
+Maria		Female	149	Twelfth Night		
+Archbishop		Male	148	Henry IV Part 2		
+Oliver		Male	148	As You Like It		
+Lord		Male	146	The Taming of the Shrew		
+Aeneas		Male	143	Troilus and Cressida		
+Egeon		Male	143	The Comedy of Errors		
+Slender		Male	143	The Merry Wives of Windsor		
+Northumberland		Male	143	Richard II		
+Titania		Female	141	A Midsummer Night's Dream		
+Duchess Of York		Female	141	Richard III		
+Hastings		Male	140	Richard III		
+Clifford		Male	140	Henry VI Part 3		
+Ferdinand		Male	139	The Tempest		
+Brabantio		Male	139	Othello		
+Diana		Female	138	All's Well That Ends Well		
+Arviragus		Male	138	Cymbeline		
+Lewis The Dauphin		Male	137	King John		
+Richmond		Male	137	Richard III		
+Shepherd		Male	137	The Winter's Tale		
+Pompey		Male	136	Antony and Cleopatra		
+Demetrius		Male	136	A Midsummer Night's Dream		
+Mowbray		Male	135	Richard II		
+Ross		Male	135	Macbeth		
+Cranmer		Male	135	Henry VIII		
+Charles		Male	135	Henry VI Part 1		
+Hero		Female	132	Much Ado About Nothing		
+Warwick		Male	131	Henry VI Part 2		
+Casca		Male	130	Julius Caesar		
+Exeter		Male	129	Henry V		
+Perdita		Female	126	The Winter's Tale		
+Shallow		Male	125	The Merry Wives of Windsor		
+Sebastian		Male	125	The Tempest		
+Sebastian		Male	124	Twelfth Night		
+Pirithous		Male	124	The Two Noble Kinsmen		
+Constable		Male	123	Henry V		
+Borachio		Male	123	Much Ado About Nothing		
+Warwick		Male	121	King Edward III		
+Quince		Male	121	A Midsummer Night's Dream		
+Helicanus		Male	121	Pericles		
+Arthur		Male	120	King John		
+Roderigo		Male	119	Othello		
+Duchess		Female	119	Henry VI Part 2		
+Second Lord		Male	119	All's Well That Ends Well		
+Gaoler		Male	118	The Two Noble Kinsmen		
+Cordelia		Female	117	King Lear		
+Salerio		Male	115	The Merchant of Venice		
+Dauphin		Male	115	Henry V		
+Katherine		Female	115	Henry VIII		
+Queen Isabel		Female	115	Richard II		
+Lady Capulet		Female	115	Romeo and Juliet		
+Banquo		Male	113	Macbeth		
+Claudio		Male	113	Measure for Measure		
+Fabian		Male	113	Twelfth Night		
+Antigonus		Male	111	The Winter's Tale		
+Cleon		Male	111	Pericles		
+Cerimon		Male	110	Pericles		
+Host		Male	110	The Merry Wives of Windsor		
+Don John		Male	109	Much Ado About Nothing		
+Westmorland		Male	109	Henry IV Part 2		
+Charmian		Female	109	Antony and Cleopatra		
+Cornwall		Male	109	King Lear	yes	
+Alonso		Male	109	The Tempest		
+Duke		Male	109	As You Like It		
+Derby		Male	108	Richard III		
+Prince John		Male	108	Henry IV Part 2		
+First Gentleman		Male	107	Henry VIII		
+Schoolmaster		Male	107	The Two Noble Kinsmen		
+Lysimachus		Male	107	Pericles		
+Antonio		Male	106	Twelfth Night		
+Biondello		Male	106	The Taming of the Shrew		
+Northumberland		Male	106	Henry IV Part 2		
+Wooer		Male	105	The Two Noble Kinsmen		
+George		Male	105	Henry VI Part 3		
+Diomedes		Male	104	Troilus and Cressida		
+Lucius		Male	104	Cymbeline		
+Bawd		Female	104	Pericles		
+Poet		Male	104	Timon of Athens		
+Morocco		Male	103	The Merchant of Venice		
+Cardinal		Male	103	Henry VI Part 2		
+Hippolyta		Female	102	The Two Noble Kinsmen		
+Trinculo		Male	102	The Tempest		fool
+Rosencrantz		Male	100	Hamlet		
+Paris		Male	97	Troilus and Cressida		
+Audley		Male	97	King Edward III		
+Caius		Male	97	The Merry Wives of Windsor		
+Fenton		Male	96	The Merry Wives of Windsor		
+Winchester		Male	96	Henry VI Part 1		
+Luciana		Female	96	The Comedy of Errors		
+First Player		Male	96	Hamlet		
+Ghost		Male	95	Hamlet		
+First Clown		Male	94	Hamlet		
+French King		Male	94	Henry V		
+Salisbury		Male	94	Henry VI Part 2		
+Demetrius		Male	94	Titus Andronicus		
+Suffolk		Male	93	Henry VIII		
+Duchess Of York		Female	93	Richard II		
+Portia		Female	92	Julius Caesar		
+Salisbury		Male	92	King Edward III		
+Duke		Male	91	The Comedy of Errors		
+Gardiner		Male	91	Henry VIII		
+First Citizen		Male	89	Coriolanus		
+Dumaine		Male	89	Love's Labour's Lost		
+First Senator		Male	89	Timon of Athens		
+Dionyza		Female	88	Pericles		
+Nerissa		Female	88	The Merchant of Venice		
+Doctor		Male	88	The Two Noble Kinsmen		
+Mortimer		Male	88	Henry VI Part 1		
+King Henry		Male	88	Richard II		
+Second Gentleman		Male	87	Henry VIII		
+Lord Bardolph		Male	87	Henry IV Part 2		
+Jessica		Female	86	The Merchant of Venice		
+Ajax		Male	86	Troilus and Cressida		
+Phebe		Female	86	As You Like It		
+Charles		Male	85	King Edward III		
+Aumerle		Male	85	Richard II		
+Friar		Male	82	Much Ado About Nothing		
+First Soldier		Male	82	All's Well That Ends Well		
+Gentleman		Male	82	King Lear		
+Boult		Male	82	Pericles		
+Surrey		Male	81	Henry VIII		
+Pistol		Male	80	Henry IV Part 2		
+Thaisa		Female	80	Pericles		
+Morton		Male	79	Henry IV Part 2		
+Poins		Male	79	Henry IV Part 1		
+Doll		Female	78	Henry IV Part 2		
+Oswald		Male	78	King Lear		
+Pembroke		Male	78	King John		
+Lodovico		Male	77	Othello		
+Warwick		Male	77	Henry IV Part 2		
+Glendower		Male	77	Henry IV Part 1		
+Lucy		Male	77	Henry VI Part 1		
+Angelo		Male	77	The Comedy of Errors	yes	
+Bedford		Male	76	Henry VI Part 1		
+Silvius		Male	75	As You Like It		
+Prince		Male	75	Romeo and Juliet		
+Buckingham		Male	74	Henry VI Part 2		
+Abbess		Female	73	The Comedy of Errors		
+Cornelius		Male	73	Cymbeline		
+Lady Grey		Female	73	Henry VI Part 3		
+Longaville		Male	72	Love's Labour's Lost		
+Warwick		Male	72	Henry VI Part 1		
+Lucetta		Female	72	The Two Gentlemen of Verona		
+Duke		Male	71	Othello		
+Elbow		Male	71	Measure for Measure		
+Corin		Male	71	As You Like It		
+Williams		Male	70	Henry V		
+Solanio		Male	70	The Merchant of Venice		
+King		Male	70	Macbeth		
+Lennox		Male	70	Macbeth		
+Patroclus		Male	69	Troilus and Cressida		
+Bianca		Female	69	The Taming of the Shrew		
+Boy		Male	69	Henry V		
+Paris		Male	69	Romeo and Juliet		
+Duke Frederick		Male	68	As You Like It		
+Antiochus		Male	68	Pericles		
+Mariana		Female	68	Measure for Measure		
+Old Lady		Female	68	Henry VIII		
+Lovell		Male	68	Henry VIII		
+Margaret		Female	68	Much Ado About Nothing		
+Burgundy		Male	67	Henry V		
+Lepidus		Male	67	Antony and Cleopatra		
+Lewis		Male	67	Henry VI Part 3		
+Mariner		Male	66	King Edward III		
+Arragon		Male	66	The Merchant of Venice		
+First Gentleman		Male	66	Cymbeline		
+Vernon		Male	66	Henry IV Part 1		
+Lucius		Male	66	Timon of Athens		
+Painter		Male	65	Timon of Athens		
+King Edward		Male	65	Richard III		
+First Murderer		Male	65	Richard III		
+Adam		Male	65	As You Like It		
+Lieutenant		Male	65	Henry VI Part 2		
+Somerset		Male	64	Henry VI Part 1		
+Gower		Male	64	Henry V		
+Widow		Female	64	All's Well That Ends Well		
+First Queen		Female	63	The Two Noble Kinsmen		
+Bishop Of Carlisle		Male	63	Richard II		
+Bassianus		Male	63	Titus Andronicus		
+Third Gentleman		Male	63	The Winter's Tale		
+Montano		Male	62	Othello		
+Menas		Male	62	Antony and Cleopatra		
+Katherine		Female	61	Henry V		
+Sly		Male	61	The Taming of the Shrew		
+First Witch		Female	61	Macbeth		
+Surveyor		Male	61	Henry VIII		
+Second Murderer		Male	61	Richard III		
+Marcellus		Male	61	Hamlet		
+Second Senator		Male	61	Timon of Athens		
+Lord		Male	60	The Winter's Tale		
+Mortimer		Male	60	Henry IV Part 1		
+Lartius		Male	60	Coriolanus		
+Poins		Male	60	Henry IV Part 2		
+Agrippa		Male	60	Antony and Cleopatra		
+Lavinia		Female	59	Titus Andronicus		
+Reignier		Male	59	Henry VI Part 1		
+Griffith		Male	59	Henry VIII		
+Exeter		Male	59	Henry VI Part 1		
+Lucullus		Male	59	Timon of Athens		
+Catesby		Male	58	Richard III		
+Anne		Female	58	Henry VIII		
+Duchess Of Gloucester		Female	58	Richard II		
+Lady Percy		Female	57	Henry IV Part 1		
+Third Gentleman		Male	57	Henry VIII		
+Hastings		Male	57	Henry IV Part 2		
+Artois		Male	57	King Edward III		
+Duke		Male	57	The Merchant of Venice		
+Flute		Male	57	A Midsummer Night's Dream		
+Mowbray		Male	56	Henry IV Part 2		
+Clifford		Male	56	Henry VI Part 2		
+Antonio		Male	55	Much Ado About Nothing		
+Queen Eleanor		Female	55	King John		
+Thurio		Male	55	The Two Gentlemen of Verona		
+Nathaniel		Male	55	Love's Labour's Lost		
+Campeius		Male	53	Henry VIII		
+Chiron		Male	53	Titus Andronicus		
+Third Citizen		Male	53	Coriolanus		
+Guildenstern		Male	53	Hamlet		
+Third Servingman		Male	52	Coriolanus		
+Gardener		Male	52	Richard II		
+Speaker		Male	52	The Two Noble Kinsmen		
+Montjoy		Male	52	Henry V		
+Pedant		Male	51	The Taming of the Shrew		
+Iden		Male	51	Henry VI Part 2		
+Pistol		Male	51	The Merry Wives of Windsor		
+Simple		Male	49	The Merry Wives of Windsor		
+Hostess		Female	49	Henry IV Part 1		
+Cromwell		Male	49	Henry VIII		
+Alençon		Male	49	Henry VI Part 1		
+Messenger		Male	49	The Two Noble Kinsmen		
+Osrick		Male	49	Hamlet		
+Le Beau		Male	48	As You Like It		
+Rivers		Male	48	Richard III		
+Say		Male	48	Henry VI Part 2		
+Vincentio		Male	48	The Taming of the Shrew		
+Sands		Male	48	Henry VIII		
+English Doctor		Male	48	Macbeth		
+John		Male	47	Henry VI Part 1		
+Octavius		Male	47	Julius Caesar		
+Ursula		Female	47	Much Ado About Nothing		
+Bardolph		Male	47	Henry IV Part 2		
+Eros		Male	47	Antony and Cleopatra		
+Dolabella		Male	47	Antony and Cleopatra		
+Second Lord		Male	46	Cymbeline		
+Lodowick		Male	46	King Edward III		
+Katharine		Female	46	Love's Labour's Lost		
+Prince		Male	46	Henry VI Part 3		
+Young Clifford		Male	46	Henry VI Part 2		
+Lady Percy		Female	46	Henry IV Part 2		
+Speaker		Male	46	Henry VIII		
+Percy		Male	46	Richard II		
+Boatswain		Male	46	The Tempest		
+Gadshill		Male	45	Henry IV Part 1		
+Douglas		Male	45	Henry IV Part 1		
+Countess		Female	45	Henry VI Part 1		
+Third Messenger		Male	45	Henry VI Part 1		
+Silence		Male	45	Henry IV Part 2		
+First Gaoler		Male	45	Cymbeline		
+Orleans		Male	45	Henry V		
+Nym		Male	44	Henry V		
+Young Lucius		Male	44	Titus Andronicus		
+Derby		Male	44	King Edward III		
+Mistress Quickly As Queen Of Fairies		Female	44	The Merry Wives of Windsor		
+Decius		Male	44	Julius Caesar		
+Panthino		Male	44	The Two Gentlemen of Verona		
+Burgundy		Male	43	Henry VI Part 1		
+Soothsayer		Male	43	Cymbeline		
+Philario		Male	43	Cymbeline		
+Prince Edward		Male	43	Richard III		
+Amiens		Male	42	As You Like It		
+First Lord		Male	42	As You Like It		
+First Lord		Male	42	Cymbeline		
+Hostess		Female	42	Henry V		
+Messenger To Cleopatra		Male	42	Antony and Cleopatra		
+Maria		Female	42	Love's Labour's Lost		
+Steward		Male	42	All's Well That Ends Well		
+Wife		Female	42	Macbeth		
+Blanche		Female	42	King John		
+First Senator		Male	42	Coriolanus		
+Westmorland		Male	42	Henry IV Part 1		
+Balthasar		Male	42	Much Ado About Nothing		
+Chatillon		Male	41	King John		
+Blunt		Male	41	Henry IV Part 1		
+Egeus		Male	41	A Midsummer Night's Dream		
+Iris		Female	41	The Tempest		
+Montague		Male	41	Romeo and Juliet		
+First Fisherman		Male	41	Pericles		
+Valeria		Female	40	Coriolanus		
+Charles		Male	40	As You Like It		
+Scarus		Male	40	Antony and Cleopatra		
+Sicilius		Male	40	Cymbeline		
+Rumour		Male	40	Henry IV Part 2		
+Melun		Male	39	King John		
+Bushy		Male	39	Richard II		
+Hecat		Female	39	Macbeth		
+Lorraine		Male	39	King Edward III		
+Second Queen		Female	39	The Two Noble Kinsmen		
+York		Male	39	Richard III		
+Gobbo		Male	38	The Merchant of Venice		fool
+Host		Male	38	The Two Gentlemen of Verona		
+Messala		Male	38	Julius Caesar		
+Man		Male	38	Henry VIII		
+Messenger		Male	38	Coriolanus		
+Scroop		Male	37	Richard II		
+Cassandra		Female	37	Troilus and Cressida		
+Third Queen		Female	37	The Two Noble Kinsmen		
+Tyrrel		Male	37	Richard III		
+Second Servingman		Male	37	Coriolanus		
+Virgilia		Female	36	Coriolanus		
+Tybalt		Male	36	Romeo and Juliet		
+Sempronius		Male	36	Timon of Athens		
+Messenger		Male	36	Henry VI Part 3		
+Mistress Overdone		Female	36	Measure for Measure		
+Friar Peter		Male	36	Measure for Measure		
+Octavia		Female	36	Antony and Cleopatra		
+Maecenas		Male	36	Antony and Cleopatra		
+Captain		Male	36	Macbeth		
+First Servingman		Male	36	Coriolanus		
+Austria		Male	36	King John		
+Conrade		Male	36	Much Ado About Nothing		
+Dick		Male	36	Henry VI Part 2		
+Bianca		Female	35	Othello		
+Antonio		Male	35	The Two Gentlemen of Verona		
+Courtesan		Female	35	The Comedy of Errors		
+Oxford		Male	35	Henry VI Part 3		
+Hippolyta		Female	35	A Midsummer Night's Dream		
+Senator		Male	35	Timon of Athens		
+Sampson		Male	35	Romeo and Juliet		
+Shepherd'S Servant		Male	35	The Winter's Tale		
+Barnardo		Male	34	Hamlet		
+Alexander		Male	34	Troilus and Cressida		
+Second Merchant		Male	34	The Comedy of Errors		
+Porter		Male	34	Henry VIII		
+Archbishop		Male	34	Henry IV Part 1		
+Porter		Male	33	Macbeth		fool
+Margaret		Female	33	Henry VI Part 1		
+Lucius		Male	33	Julius Caesar		
+Davy		Male	33	Henry IV Part 2		
+Somerset		Male	33	Henry VI Part 3		
+King David		Male	33	King Edward III		
+Peter		Male	33	Romeo and Juliet		
+Balthasar		Male	32	Romeo and Juliet		
+Ratcliffe		Male	32	Richard III		
+Captain		Male	32	Twelfth Night		
+Time		Male	32	The Winter's Tale		
+Brakenbury		Male	32	Richard III		
+Lucius'S Servant		Male	32	Timon of Athens		
+Alexas		Male	32	Antony and Cleopatra		
+France		Male	32	King Lear		
+Bardolph		Male	32	Henry V		
+Proculeius		Male	32	Antony and Cleopatra		
+Philip		Male	32	King Edward III		
+Epilogue		Male	32	Henry IV Part 2		
+Martius		Male	32	Titus Andronicus		
+Messenger		Male	32	Much Ado About Nothing		
+Lord Chancellor		Male	32	Henry VIII		
+Marullus		Male	31	Julius Caesar		
+Titinius		Male	31	Julius Caesar		
+Green		Male	31	Richard II		
+First Watch		Male	31	Coriolanus		
+Hume		Male	31	Henry VI Part 2		
+Page		Male	31	Henry IV Part 2		
+Third Frenchman		Male	31	King Edward III		
+Villiers		Male	31	King Edward III		
+Soothsayer		Male	31	Antony and Cleopatra		
+Thidias		Male	31	Antony and Cleopatra		
+Second Countryman		Male	31	The Two Noble Kinsmen		
+Calchas		Male	31	Troilus and Cressida		
+Prologue		Male	31	Troilus and Cressida		
+First Stranger		Male	31	Timon of Athens		
+Second Player		Male	31	Hamlet		
+Second Fisherman		Male	31	Pericles		
+Hymen		Male	31	As You Like It		
+Second Citizen		Male	30	Coriolanus		
+Dull		Male	30	Love's Labour's Lost		
+Northumberland		Male	30	Henry VI Part 3		
+Ventidius		Male	30	Antony and Cleopatra		
+Gratiano		Male	30	Othello		
+Seyward		Male	30	Macbeth		
+Lucilius		Male	30	Julius Caesar		
+Vernon		Male	29	Henry VI Part 1		
+Bastard		Male	29	Henry VI Part 1		
+Bardolph		Male	29	Henry IV Part 1		
+Nym		Male	29	The Merry Wives of Windsor		
+Prince Henry		Male	29	King John		
+Soldier		Male	29	Antony and Cleopatra		
+Post		Male	29	Henry VI Part 3		
+Flaminius		Male	29	Timon of Athens		
+Old Athenian		Male	29	Timon of Athens		
+Chorus		Male	28	Romeo and Juliet		
+First Gentleman		Male	28	The Winter's Tale		
+Pandar		Male	28	Pericles		
+Third Citizen		Male	28	Richard III		
+Curtis		Male	28	The Taming of the Shrew		
+Fairy		Male	28	A Midsummer Night's Dream		
+Helen		Female	28	Troilus and Cressida		
+Alice		Female	28	Henry V		
+First Gentleman		Male	28	Measure for Measure		
+Verges		Male	28	Much Ado About Nothing		
+Anne		Female	28	The Merry Wives of Windsor		
+Clown		Male	28	Othello		
+Eglamour		Male	28	The Two Gentlemen of Verona		
+Third Witch		Female	27	Macbeth		
+Fitzwater		Male	27	Richard II		
+Flavius		Male	27	Julius Caesar		
+General		Male	27	Henry VI Part 1		
+Ely		Male	27	Henry V		
+Westmorland		Male	27	Henry V		
+Clown		Male	27	Antony and Cleopatra		
+First Friend		Male	27	The Two Noble Kinsmen		
+Calphurnia		Female	27	Julius Caesar		
+Fortinbras		Male	27	Hamlet		
+Dion		Male	27	The Winter's Tale		
+Roman		Male	27	Coriolanus		
+Servant		Male	27	Timon of Athens		
+Father		Male	27	Henry VI Part 3		
+Thaliard		Male	26	Pericles		
+Iras		Female	26	Antony and Cleopatra		
+Balthasar		Male	26	The Comedy of Errors		
+Northumberland		Male	26	Henry IV Part 1		
+Second Witch		Female	26	Macbeth		
+First Murderer		Male	25	Macbeth		
+Lord Marshal		Male	25	Richard II		
+Third Outlaw		Male	25	The Two Gentlemen of Verona		
+Basset		Male	25	Henry VI Part 1		
+Second Plebeian		Male	25	Julius Caesar		
+First Senator		Male	25	Othello		
+Bardolph		Male	25	The Merry Wives of Windsor		
+Peter		Male	25	Henry VI Part 2		
+Quintus		Male	25	Titus Andronicus		
+Canidius		Male	25	Antony and Cleopatra		
+Simpcox		Male	25	Henry VI Part 2		
+Somerset		Male	25	Henry VI Part 2		
+Third Countryman		Male	25	The Two Noble Kinsmen		
+Officer		Male	25	The Winter's Tale		
+Messenger		Male	25	Richard III		
+Pages		Male	25	As You Like It		
+Ceres		Female	24	The Tempest		
+Leonine		Male	24	Pericles		
+Rutland		Male	24	Henry VI Part 3		
+Boy		Male	24	The Two Noble Kinsmen		
+Queen Isabel		Female	24	Henry V		
+Richard		Male	24	Henry VI Part 2		
+Philostrate		Male	24	A Midsummer Night's Dream		
+Messenger		Male	24	Henry VI Part 1		
+Shepherd		Male	24	Henry VI Part 1		
+Gentlewoman		Female	24	Macbeth		
+Bagot		Male	23	Richard II		
+First Carrier		Male	23	Henry IV Part 1		
+Third Plebeian		Male	23	Julius Caesar		
+Clown		Male	23	Titus Andronicus		
+Cleomenes		Male	23	The Winter's Tale		
+Gregory		Male	22	Romeo and Juliet		
+Servant		Male	22	Romeo and Juliet		
+Mamillius		Male	22	The Winter's Tale		
+Fool		Male	22	Timon of Athens		fool
+Messenger		Male	22	King John		
+Robert Faulconbridge		Male	22	King John		
+Fourth Plebeian		Male	22	Julius Caesar		
+Ross		Male	22	Richard II		
+Frenchman		Male	22	Cymbeline		
+Son		Male	22	Henry VI Part 3		
+Second Friend		Male	22	The Two Noble Kinsmen		
+Snout		Male	22	A Midsummer Night's Dream		
+Gentleman		Male	21	All's Well That Ends Well		
+First Citizen		Male	21	King Edward III		
+Jupiter		Male	21	Cymbeline		
+Abhorson		Male	21	Measure for Measure		
+Decretas		Male	21	Antony and Cleopatra		
+Exton		Male	21	Richard II		
+Angus		Male	21	Macbeth		
+Lord		Male	21	Macbeth		
+First Outlaw		Male	21	The Two Gentlemen of Verona		
+First Plebeian		Male	21	Julius Caesar		
+Mayor		Male	21	Henry VI Part 1		
+First Watchman		Male	21	Much Ado About Nothing		
+Bolingbroke		Male	21	Henry VI Part 2		
+Clarence		Male	21	Henry IV Part 2		
+First Lord		Male	21	Timon of Athens		
+Voltemand		Male	21	Hamlet		
+Mopsa		Female	21	The Winter's Tale		
+Archidamus		Male	21	The Winter's Tale		
+Emilia		Female	20	The Winter's Tale		
+Audrey		Female	20	As You Like It		
+Second Officer		Male	20	Coriolanus		
+Volsce		Male	20	Coriolanus		
+Caphis		Male	20	Timon of Athens		
+Messenger		Male	20	Timon of Athens		
+Messenger		Male	20	King Lear		
+Second Watchman		Male	20	Much Ado About Nothing		
+Servant Of Antony		Male	20	Julius Caesar		
+Son		Male	20	Macbeth		
+Salisbury		Male	20	Richard II		
+Second Goth		Male	20	Titus Andronicus		
+Messenger		Male	20	Antony and Cleopatra		
+Hastings		Male	20	Henry VI Part 3		
+Priam		Male	20	Troilus and Cressida		
+Servant		Male	20	Troilus and Cressida		
+Mariana		Female	20	All's Well That Ends Well		
+Duke		Male	19	All's Well That Ends Well		
+Mardian		Male	19	Antony and Cleopatra		
+Diomedes		Male	19	Antony and Cleopatra		
+Nurse		Female	19	Titus Andronicus		
+Macmorris		Male	19	Henry V		
+Chamberlain		Male	19	Henry IV Part 1		
+All Witches		Female	19	Macbeth		
+Artemidorus		Male	19	Julius Caesar		
+Horner		Male	19	Henry VI Part 2		
+Second Messenger		Male	19	Coriolanus		
+Boy		Male	19	Richard III		
+Third Fisherman		Male	18	Pericles		
+First Lord		Male	18	Pericles		
+First Watchman		Male	18	Romeo and Juliet		
+Gentleman		Male	18	The Winter's Tale		
+Second Clown		Male	18	Hamlet		
+Servilius		Male	18	Timon of Athens		
+Holland		Male	18	Henry VI Part 2		
+Aemilius		Male	18	Titus Andronicus		
+Cinna		Male	18	Julius Caesar		
+Soothsayer		Male	18	Julius Caesar		
+First Messenger		Male	18	Henry VI Part 1		
+Master Gunner		Male	18	Henry VI Part 1		
+Abergavenny		Male	18	Henry VIII		
+Second Carrier		Male	18	Henry IV Part 1		
+Percy		Male	18	King Edward III		
+Fourth Countryman		Male	18	The Two Noble Kinsmen		
+Messenger To Caesar		Male	18	Antony and Cleopatra		
+French Soldier		Male	18	Henry V		
+Grandpré		Male	18	Henry V		
+Bates		Male	18	Henry V		
+Doctor		Male	18	King Lear		
+Whitmore		Male	18	Henry VI Part 2		
+Hiems		Male	18	Love's Labour's Lost		
+Jaquenetta		Female	18	Love's Labour's Lost		
+Ver		Male	18	Love's Labour's Lost		
+Copland		Male	17	King Edward III		
+Ambassador		Male	17	Henry V		
+Philo		Male	17	Antony and Cleopatra		
+Queen		Female	17	King Edward III		
+Metellus		Male	17	Julius Caesar		
+Pindarus		Male	17	Julius Caesar		
+Bevis		Male	17	Henry VI Part 2		
+Third Gentleman		Male	17	Othello		
+First Keeper		Male	17	Henry VI Part 3		
+Exeter		Male	17	Henry VI Part 3		
+Second Lord		Male	17	Timon of Athens		
+Jaques De Boys		Male	17	As You Like It		
+First Gentleman		Male	17	Pericles		
+Second Gentleman		Male	16	The Winter's Tale		
+Plebeians		Male	16	Coriolanus		
+Messenger		Male	16	Hamlet		
+Knight		Male	16	King Lear		
+Ligarius		Male	16	Julius Caesar		
+Cobbler		Male	16	Julius Caesar		
+Francis		Male	16	Henry IV Part 1		
+Second Outlaw		Male	16	The Two Gentlemen of Verona		
+Ambassador		Male	16	Antony and Cleopatra		
+Barnardine		Male	16	Measure for Measure		
+Stafford		Male	16	Henry VI Part 2		
+Smith		Male	16	Henry VI Part 2		
+Tailor		Male	16	The Taming of the Shrew		
+Page		Male	16	The Taming of the Shrew		
+First Servingman		Male	15	The Taming of the Shrew		
+Tubal		Male	15	The Merchant of Venice		
+Andromache		Female	15	Troilus and Cressida		
+Montague		Male	15	Henry VI Part 3		
+Cambridge		Male	15	Henry V		
+First Senator		Male	15	Cymbeline		
+Messenger		Male	15	The Comedy of Errors		
+First Merchant		Male	15	The Comedy of Errors		
+First Countryman		Male	15	The Two Noble Kinsmen		
+Second Murderer		Male	15	Macbeth		
+Peto		Male	15	Henry IV Part 1		
+Captain		Male	15	Richard II		
+Salisbury		Male	15	Henry VI Part 1		
+Travers		Male	15	Henry IV Part 2		
+Gloucester		Male	15	Henry IV Part 2		
+Messenger		Male	15	Henry VI Part 2		
+Sexton		Male	15	Much Ado About Nothing		
+Aedile		Male	15	Coriolanus		
+Lady Faulconbridge		Female	15	King John		
+Reynaldo		Male	15	Hamlet		
+Titus		Male	15	Timon of Athens		
+Soldier		Male	15	Timon of Athens		
+Servant		Male	15	The Winter's Tale		
+Dorset		Male	15	Richard III		
+Second Gentleman		Male	15	Pericles		
+Lord Mayor		Male	14	Richard III		
+Scrivener		Male	14	Richard III		
+Laurence		Male	14	Romeo and Juliet		
+Gentleman		Male	14	Hamlet		
+All Citizens		Male	14	Coriolanus		
+First Volscian Senator		Male	14	Coriolanus		
+First Officer		Male	14	Coriolanus		
+Brandon		Male	14	Henry VIII		
+Cinna The Poet		Male	14	Julius Caesar		
+Messenger		Male	14	Macbeth		
+Sentry		Male	14	Antony and Cleopatra		
+First Guard Of Caesar'S		Male	14	Antony and Cleopatra		
+First Soldier		Male	14	Antony and Cleopatra		
+Publius		Male	14	Titus Andronicus		
+Officer		Male	14	The Comedy of Errors		
+Valentine		Male	14	Twelfth Night		
+Montgomery		Male	14	Henry VI Part 3		
+Second Keeper		Male	14	Henry VI Part 3		
+Woman		Female	14	The Two Noble Kinsmen		
+Chorus		Male	14	A Midsummer Night's Dream		
+Snug		Male	14	A Midsummer Night's Dream		
+Clerk		Male	14	The Merchant of Venice		
+Menelaus		Male	13	Troilus and Cressida		
+Servant		Male	13	The Two Noble Kinsmen		
+Montague		Male	13	King Edward III		
+First Frenchman		Male	13	King Edward III		
+Second Gentleman		Male	13	Cymbeline		
+Queen'S Lady		Female	13	Cymbeline		
+Second Soldier		Male	13	Antony and Cleopatra		
+First Lord		Male	13	Coriolanus		
+English Herald		Male	13	King John		
+Robin		Male	13	The Merry Wives of Windsor		
+All		Male	13	Henry VI Part 2		
+Bullcalf		Male	13	Henry IV Part 2		
+Priest		Male	13	Hamlet		
+Gaoler		Male	13	The Winter's Tale		
+Dorcas		Female	13	The Winter's Tale		
+Second Citizen		Male	13	Richard III		
+Grey		Male	12	Richard III		
+Archbishop		Male	12	Richard III		
+Captain		Male	12	Hamlet		
+Adrian		Male	12	The Tempest		
+First Musician		Male	12	Romeo and Juliet		
+John		Male	12	Romeo and Juliet		
+Second Watch		Male	12	Coriolanus		
+Third Conspirator		Male	12	Coriolanus		
+Jeweller		Male	12	Timon of Athens		
+Old Man		Male	12	King Lear		
+Mouldy		Male	12	Henry IV Part 2		
+Servant		Male	12	Henry IV Part 2		
+William		Male	12	The Merry Wives of Windsor		
+Second Gentleman		Male	12	Othello		
+French Herald		Male	12	King John		
+Menteth		Male	12	Macbeth		
+Groom		Male	12	Richard II		
+Willoughby		Male	12	Richard II		
+Gentlewoman		Female	12	Henry VIII		
+Mother		Female	12	Cymbeline		
+Pinch		Male	12	The Comedy of Errors		
+First Brother		Male	12	Cymbeline		
+Scroop		Male	12	Henry V		
+First Officer		Male	12	Twelfth Night		
+Grey		Male	12	Henry V		
+Valerius		Male	12	The Two Noble Kinsmen		
+Burgundy		Male	12	King Lear		
+All		Male	12	Julius Caesar		
+Third Servingman		Male	12	The Taming of the Shrew		
+Second Servingman		Male	12	The Taming of the Shrew		
+Widow		Female	11	The Taming of the Shrew		
+Messenger		Male	11	The Merchant of Venice		
+Starveling		Male	11	A Midsummer Night's Dream		
+Vaux		Male	11	Henry VI Part 2		
+French Herald		Male	11	King Edward III		
+Captain		Male	11	King Edward III		
+Jamy		Male	11	Henry V		
+Froth		Male	11	Measure for Measure		
+Second Gentleman		Male	11	Measure for Measure		
+Roman Captain		Male	11	Cymbeline		
+Silius		Male	11	Antony and Cleopatra		
+Brother		Male	11	The Two Noble Kinsmen		
+Capuchius		Male	11	Henry VIII		
+Old Man		Male	11	Macbeth		
+Cathness		Male	11	Macbeth		
+Lieutenant To Aufidius		Male	11	Coriolanus		
+Herald		Male	11	Othello		
+Rugby		Male	11	The Merry Wives of Windsor		
+Evans As A Satyr		Male	11	The Merry Wives of Windsor		
+Drawer		Male	11	Henry IV Part 2		
+Feeble		Male	11	Henry IV Part 2		
+Westmorland		Male	11	Henry VI Part 3		
+First Messenger		Male	11	Henry VI Part 2		
+Hortensius		Male	11	Timon of Athens		
+Merchant		Male	11	Timon of Athens		
+First Bandit		Male	11	Timon of Athens		
+Second Servant		Male	11	Timon of Athens		
+Varro'S Servant		Male	11	Timon of Athens		
+Ventidius		Male	11	Timon of Athens		
+William		Male	11	As You Like It		
+Lords		Male	11	As You Like It		
+Francisco		Male	11	The Tempest		
+Lychorida		Female	11	Pericles		
+Mariner		Male	11	The Winter's Tale		
+Fourth Messenger		Male	10	Richard III		
+Ghost Of Buckingham		Male	10	Richard III		
+Norfolk		Male	10	Richard III		
+Diana		Female	10	Pericles		
+First Servingman		Male	10	Romeo and Juliet		
+Third Servant		Male	10	Timon of Athens		
+Francisco		Male	10	Hamlet		
+First Beadle		Male	10	Henry IV Part 2		
+Herald		Male	10	King Lear		
+Surrey		Male	10	Richard II		
+Abbot Of Westminster		Male	10	Richard II		
+Guilford		Male	10	Henry VIII		
+Third Servingman		Male	10	Henry VI Part 1		
+Clitus		Male	10	Julius Caesar		
+Servant		Male	10	Julius Caesar		
+Third French Herald		Male	10	King Edward III		
+Juliet		Female	10	Measure for Measure		
+First Servant		Male	10	King Lear		
+First Huntsman		Male	9	The Taming of the Shrew		
+Curan		Male	9	King Lear		
+Spirit		Male	9	Henry VI Part 2		
+Third Watchman		Male	9	Henry VI Part 3		
+Herald		Male	9	King Edward III		
+Mountford		Male	9	King Edward III		
+First Poor Frenchman		Male	9	King Edward III		
+Singer		Male	9	The Merchant of Venice		
+Francisca		Female	9	Measure for Measure		
+Britaine		Male	9	Henry V		
+Bourbon		Male	9	Henry V		
+Herald		Male	9	The Two Noble Kinsmen		
+Rambures		Male	9	Henry V		
+Salisbury		Male	9	Henry V		
+Costard As Pompey		Male	9	Love's Labour's Lost		fool
+Soldier Of Caesar'S		Male	9	Antony and Cleopatra		
+First Servant		Male	9	Antony and Cleopatra		
+Cicero		Male	9	Julius Caesar		
+Butts		Male	9	Henry VIII		
+First Man		Male	9	Richard II		
+Messenger To Wife		Male	9	Macbeth		
+Colevile		Male	9	Henry IV Part 2		
+Messenger		Male	9	Othello		
+Bona		Female	9	Henry VI Part 3		
+Page		Male	9	Romeo and Juliet		
+Second Lord		Male	9	Coriolanus		
+First Lady		Female	9	The Winter's Tale		
+Second Lord To Frederick		Male	9	As You Like It		
+First Sailor		Male	9	Pericles		
+Second Lord		Male	9	Pericles		
+Cardinal Bourchier		Male	9	Richard III		
+Blunt		Male	8	Richard III		
+First Citizen		Male	8	Richard III		
+Ghost Of Henry Vi		Male	8	Richard III		
+Keeper		Male	8	Richard III		
+Ghost Of Anne		Female	8	Richard III		
+Ghosts		Male	8	Richard III		
+First Servant		Male	8	Pericles		
+Urswick		Male	8	Richard III		
+All Together		Male	8	As You Like It		
+All The Servants		Male	8	Timon of Athens		
+First Varro'S Servant		Male	8	Timon of Athens		
+First Servant		Male	8	Timon of Athens		
+Isidore'S Servant		Male	8	Timon of Athens		
+First Conspirator		Male	8	Coriolanus		
+Bigot		Male	8	King John		
+Fang		Male	8	Henry IV Part 2		
+Sheriff		Male	8	Henry IV Part 1		
+Sir Michael		Male	8	Henry IV Part 1		
+Francis		Male	8	Henry IV Part 2		
+Gower		Male	8	Henry IV Part 2		
+Harcourt		Male	8	Henry IV Part 2		
+First Petitioner		Male	8	Henry VI Part 2		
+First Goth		Male	8	Titus Andronicus		
+Third Murderer		Male	8	Macbeth		
+Donalbain		Male	8	Macbeth		
+Berkeley		Male	8	Richard II		
+Lancaster		Male	8	Henry IV Part 1		
+Keeper		Male	8	Henry VIII		
+Lincoln		Male	8	Henry VIII		
+Cato		Male	8	Julius Caesar		
+Trebonius		Male	8	Julius Caesar		
+Falstaff		Male	8	Henry VI Part 1		
+Scales		Male	8	Henry VI Part 2		
+Woman		Female	8	King Edward III		
+Priest		Male	8	Twelfth Night		
+Luce		Female	8	The Comedy of Errors		
+Stephano		Male	8	The Merchant of Venice		
+First Fairy		Male	8	A Midsummer Night's Dream		
+Holofernes As Presenter		Male	8	Love's Labour's Lost		
+Messenger		Male	8	King Edward III		
+First Watchman		Male	8	Henry VI Part 3		
+Wife		Female	8	Henry VI Part 2		
+Stanley		Male	7	Henry VI Part 2		
+Second Watchman		Male	7	Henry VI Part 3		
+Rivers		Male	7	Henry VI Part 3		
+First Wealthy Citizen		Male	7	King Edward III		
+Singer		Male	7	Cymbeline		
+Lord		Male	7	Cymbeline		
+Erpingham		Male	7	Henry V		
+Bedford		Male	7	Henry V		
+Governor		Male	7	Henry V		
+First Knight		Male	7	The Two Noble Kinsmen		
+Second Servant		Male	7	Antony and Cleopatra		
+First Servingman		Male	7	Henry VI Part 1		
+Strato		Male	7	Julius Caesar		
+Poet		Male	7	Julius Caesar		
+Second Messenger		Male	7	Henry VI Part 1		
+Second Herald		Male	7	Richard II		
+Servant		Male	7	Henry VIII		
+Young Seyward		Male	7	Macbeth		
+Messenger		Male	7	Titus Andronicus		
+Brother		Male	7	Henry VI Part 2		
+First Gentleman		Male	7	Henry VI Part 2		
+First Soldier		Male	7	Coriolanus		
+Fourth Citizen		Male	7	Coriolanus		
+Pistol As Hobgoblin		Male	7	The Merry Wives of Windsor		
+Page		Male	7	Timon of Athens		
+Lord		Male	7	Hamlet		
+Third Bandit		Male	7	Timon of Athens		
+Poet And Painter		Male	7	Timon of Athens		
+Second Stranger		Male	7	Timon of Athens		
+Juno		Female	7	The Tempest		
+Second Conspirator		Male	7	Coriolanus		
+Second Volscian Senator		Male	7	Coriolanus		
+Apothecary		Male	7	Romeo and Juliet		
+Third Messenger		Male	7	Richard III		
+Curio		Male	7	Twelfth Night		
+Lord		Male	7	Pericles		
+Ghost Of Clarence		Male	7	Richard III		
+Ghost Of Prince Edward		Male	6	Richard III		
+Page		Male	6	Richard III		
+Bishop Of Ely		Male	6	Richard III		
+Ambassador		Male	6	Hamlet		
+Sailor Of Tyre		Male	6	Pericles		
+Second Sailor		Male	6	Pericles		
+Second Musician		Male	6	Romeo and Juliet		
+Servingman		Male	6	Romeo and Juliet		
+First Page		Male	6	As You Like It		
+Second Varro'S Servant		Male	6	Timon of Athens		
+Second Bandit		Male	6	Timon of Athens		
+Third Player		Male	6	Hamlet		
+Philotus		Male	6	Timon of Athens		
+Cupid		Male	6	Timon of Athens		
+Herald		Male	6	Coriolanus		
+French Messenger		Male	6	King John		
+Captain		Male	6	Titus Andronicus		
+Peto		Male	6	Henry IV Part 2		
+Servant		Male	6	Macbeth		
+Messenger		Male	6	Henry IV Part 1		
+Another Lord		Male	6	Richard II		
+First Herald		Male	6	Richard II		
+Officer		Male	6	Henry VI Part 1		
+Patience		Female	6	Henry VIII		
+Captain		Male	6	Henry VI Part 1		
+Second Watch		Male	6	Antony and Cleopatra		
+First Watch		Male	6	Antony and Cleopatra		
+Menecrates		Male	6	Antony and Cleopatra		
+Post		Male	6	Henry VI Part 2		
+Boy		Male	6	Antony and Cleopatra		
+Egyptian		Male	6	Antony and Cleopatra		
+Messenger		Male	6	Henry V		
+Second French Herald		Male	6	King Edward III		
+Friar Thomas		Male	6	Measure for Measure		
+Boy		Male	6	Measure for Measure		
+Second Brother		Male	6	Cymbeline		
+Second Captain		Male	6	Cymbeline		
+Second Petitioner		Male	6	Henry VI Part 2		
+Epilogue		Male	6	All's Well That Ends Well		
+Mustardseed		Male	5	A Midsummer Night's Dream		
+Somerville		Male	5	Henry VI Part 3		
+Mayor		Male	5	Henry VI Part 3		
+French Captain		Male	5	King Edward III		
+Forester		Male	5	Love's Labour's Lost		
+Second Knight		Male	5	The Two Noble Kinsmen		
+Servant		Male	5	Measure for Measure		
+Gloucester		Male	5	Henry V		
+Second Wealthy Citizen		Male	5	King Edward III		
+Demetrius		Male	5	Antony and Cleopatra		
+Second Messenger		Male	5	Henry VI Part 2		
+First Guard		Male	5	Antony and Cleopatra		
+Seleucus		Male	5	Antony and Cleopatra		
+Scout		Male	5	Henry VI Part 1		
+Woodville		Male	5	Henry VI Part 1		
+Keeper		Male	5	Richard II		
+Servingman		Male	5	Richard II		
+First Traveller		Male	5	Henry IV Part 1		
+Seyton		Male	5	Macbeth		
+Third Apparition		Male	5	Macbeth		
+Sergeant		Male	5	Henry VIII		
+Shadow		Male	5	Henry IV Part 2		
+Lady Northumberland		Female	5	Henry IV Part 2		
+Second Servant		Male	5	King Lear		
+Third Servant		Male	5	King Lear		
+A Goth		Male	5	Titus Andronicus		
+First Murderer		Male	5	Henry VI Part 2		
+Both Tribunes		Male	5	Coriolanus		
+Second Senator		Male	5	Othello		
+First Musician		Male	5	Othello		
+First Officer		Male	5	Othello		
+Lucilius		Male	5	Timon of Athens		
+Sailor		Male	5	Hamlet		
+Sir Oliver		Male	5	As You Like It		
+Second Servingman		Male	5	Romeo and Juliet		
+Citizens		Male	5	Romeo and Juliet		
+Abram		Male	5	Romeo and Juliet		
+First Lord Of Pentapolis		Male	5	Pericles		
+First Gentleman Of Mytilene		Male	5	Pericles		
+First Messenger		Male	5	Richard III		
+Girl		Female	5	Richard III		
+Ghost Of Hastings		Male	5	Richard III		
+Second Lady		Female	4	The Winter's Tale		
+First Knight		Male	4	Pericles		
+All		Male	4	Hamlet		
+Second Gentleman Of Mytilene		Male	4	Pericles		
+First Lord To Frederick		Male	4	As You Like It		
+Phrynia And Timandra		Female	4	Timon of Athens		
+Third Lord		Male	4	Timon of Athens		
+Third Senator		Male	4	Timon of Athens		
+Timandra		Female	4	Timon of Athens		
+Sailor		Male	4	Othello		
+Citizen		Male	4	Coriolanus		
+Both Servingmen		Male	4	Coriolanus		
+First Volscian Soldier		Male	4	Coriolanus		
+First Citizen		Male	4	Henry VI Part 2		
+Michael		Male	4	Henry VI Part 2		
+Jourdain		Female	4	Henry VI Part 2		
+Man		Male	4	Henry VI Part 2		
+Mutius		Male	4	Titus Andronicus		
+Messenger		Male	4	Henry IV Part 2		
+Vintner		Male	4	Henry IV Part 1		
+Porter		Male	4	Henry IV Part 2		
+Will		Male	4	Henry IV Part 2		
+Vaux		Male	4	Henry VIII		
+Second Apparition		Male	4	Macbeth		
+Murderer		Male	4	Macbeth		
+Soldier		Male	4	Henry VI Part 1		
+Sentinel		Male	4	Henry VI Part 1		
+Sergeant		Male	4	Henry VI Part 1		
+Lawyer		Male	4	Henry VI Part 1		
+Scribe		Male	4	Henry VIII		
+Messenger		Male	4	Henry VIII		
+Gentleman		Male	4	Henry VIII		
+Denny		Male	4	Henry VIII		
+Gaoler		Male	4	Henry VI Part 1		
+Varro		Male	4	Julius Caesar		
+Boy		Male	4	Henry VI Part 1		
+First Soldier For Antony		Male	4	Julius Caesar		
+Lepidus		Male	4	Julius Caesar		
+Messenger		Male	4	Julius Caesar		
+Second Messenger		Male	4	Antony and Cleopatra		
+Guardsman		Male	4	Antony and Cleopatra		
+Third Soldier		Male	4	Antony and Cleopatra		
+Varrius		Male	4	Antony and Cleopatra		
+Armado As Hector		Male	4	Love's Labour's Lost		
+Gentleman		Male	4	The Two Noble Kinsmen		
+Polonian Captain		Male	4	King Edward III		
+Messenger		Male	4	Measure for Measure		
+Second Officer		Male	4	Twelfth Night		
+Messenger		Male	4	Cymbeline		
+First Captain		Male	4	Cymbeline		
+Both		Male	4	Cymbeline		
+All		Male	4	Antony and Cleopatra		
+Marcade		Male	4	Love's Labour's Lost		
+Douglas		Male	4	King Edward III		
+Nathaniel As Alexander		Male	4	Love's Labour's Lost		
+Sheriff		Male	4	Henry VI Part 2		
+First Player		Male	4	The Taming of the Shrew		
+Peaseblossom		Male	4	A Midsummer Night's Dream		
+Cobweb		Male	4	A Midsummer Night's Dream		
+Helenus		Female	4	Troilus and Cressida		
+Messenger		Male	4	All's Well That Ends Well		
+Servingman		Male	4	The Merchant of Venice		
+Nathaniel		Male	4	The Taming of the Shrew		
+Hostess		Female	4	The Taming of the Shrew		
+Servant		Male	3	The Taming of the Shrew		
+Second Huntsman		Male	3	The Taming of the Shrew		
+Margarelon		Male	3	Troilus and Cressida		
+Captain		Male	3	King Lear		
+Norfolk		Male	3	Henry VI Part 3		
+Lieutenant		Male	3	Henry VI Part 3		
+Tutor		Male	3	Henry VI Part 3		
+Bohemia		Male	3	King Edward III		
+First Lord		Male	3	Love's Labour's Lost		
+Attendant		Male	3	Cymbeline		
+Third Watchman		Male	3	Romeo and Juliet		
+First Tribune		Male	3	Cymbeline		
+Servant		Male	3	Twelfth Night		
+Justice		Male	3	Measure for Measure		
+Second Citizen		Male	3	King Edward III		
+All Queens		Female	3	The Two Noble Kinsmen		
+All The Guards		Male	3	Antony and Cleopatra		
+Tribunes		Male	3	Titus Andronicus		
+Servant		Male	3	Antony and Cleopatra		
+Dardanius		Male	3	Julius Caesar		
+Ghost		Male	3	Julius Caesar		
+Volumnius		Male	3	Julius Caesar		
+First Soldier		Male	3	Henry VI Part 1		
+First Warder		Male	3	Henry VI Part 1		
+Crier		Male	3	Henry VIII		
+Garter		Male	3	Henry VIII		
+Murderers		Male	3	Macbeth		
+All Lords		Male	3	Macbeth		
+Lords		Male	3	Macbeth		
+Second Lady		Female	3	Richard II		
+Servant		Male	3	Henry IV Part 1		
+First Lady		Female	3	Richard II		
+Snare		Male	3	Henry IV Part 2		
+Clerk		Male	3	Henry VI Part 2		
+A Roman		Male	3	Titus Andronicus		
+First Neighbour		Male	3	Henry VI Part 2		
+Citizens		Male	3	Coriolanus		
+Essex		Male	3	King John		
+All The People		Male	3	Coriolanus		
+Gentleman		Male	3	Othello		
+First Gentleman		Male	3	Othello		
+All The Bandits		Male	3	Timon of Athens		
+Dennis		Male	3	As You Like It		
+Second Page		Male	3	As You Like It		
+Master		Male	3	The Tempest		
+Seventh Citizen		Male	3	Coriolanus		
+Cousin Capulet		Male	3	Romeo and Juliet		
+Fourth Servingman		Male	3	Romeo and Juliet		
+Lady Montague		Female	3	Romeo and Juliet		
+Sailor Of Mytilene		Male	3	Pericles		
+Lord Of Mytilene		Male	3	Pericles		
+Fourth Player		Male	3	Hamlet		
+Knights		Male	3	Pericles		
+Lords		Male	3	The Winter's Tale		
+Children		Male	3	Richard III		
+Lords		Male	3	Richard III		
+Lovel		Male	3	Richard III		
+Second Messenger		Male	3	Richard III		
+Pursuivant		Male	3	Richard III		
+Priest		Male	2	Richard III		
+Oxford		Male	2	Richard III		
+Ghost Of Rivers		Male	2	Richard III		
+Ghost Of Vaughan		Male	2	Richard III		
+Gentleman		Male	2	Richard III		
+All Ghosts		Male	2	Richard III		
+First Pirate		Male	2	Pericles		
+Escanes		Male	2	Pericles		
+Daughter		Female	2	Pericles		
+Sheriff		Male	2	Richard III		
+All Lords		Male	2	Hamlet		
+Third Pirate		Male	2	Pericles		
+Third Lord		Male	2	Pericles		
+Second Lord Of Pentapolis		Male	2	Pericles		
+Citizen		Male	2	Romeo and Juliet		
+Third Lord		Male	2	Coriolanus		
+Second Senator		Male	2	Coriolanus		
+Sixth Citizen		Male	2	Coriolanus		
+Lord		Male	2	As You Like It		
+Second Lord		Male	2	As You Like It		
+Rosencrantz And Guildenstern		Male	2	Hamlet		
+Horatio And Marcellus		Male	2	Hamlet		
+His Followers		Male	2	Hamlet		
+Fourth Gentleman		Male	2	Othello		
+"Page, Shallow, And Slender"		Male	2	The Merry Wives of Windsor		
+John		Male	2	The Merry Wives of Windsor		
+All		Male	2	The Merry Wives of Windsor		
+All Senators		Male	2	Coriolanus		
+All Soldiers		Male	2	Coriolanus		
+All Conspirators		Male	2	Coriolanus		
+All Lords		Male	2	Coriolanus		
+Executioner		Male	2	King John		
+Boy		Male	2	Coriolanus		
+Fifth Citizen		Male	2	Coriolanus		
+Gentlewoman		Female	2	Coriolanus		
+Patrician		Male	2	Coriolanus		
+Commons		Male	2	Henry VI Part 2		
+First Prentice		Male	2	Henry VI Part 2		
+Herald		Male	2	Henry VI Part 2		
+Boy		Male	2	Much Ado About Nothing		
+Mayor		Male	2	Henry VI Part 2		
+All		Male	2	Titus Andronicus		
+Beadle		Male	2	Henry VI Part 2		
+Third Groom		Male	2	Henry IV Part 2		
+All		Male	2	Pericles		
+Wart		Male	2	Henry IV Part 2		
+Man		Male	2	Richard II		
+First Apparition		Male	2	Macbeth		
+Fleance		Male	2	Macbeth		
+All		Male	2	Macbeth		
+Secretary		Male	2	Henry VIII		
+Second Servingman		Male	2	Henry VI Part 1		
+Servingmen		Male	2	Henry VI Part 1		
+Watch		Male	2	Henry VI Part 1		
+Gargrave		Male	2	Henry VI Part 1		
+Varro And Claudius		Male	2	Julius Caesar		
+Claudius		Male	2	Julius Caesar		
+Popilius		Male	2	Julius Caesar		
+Second Soldier		Male	2	Julius Caesar		
+Publius		Male	2	Julius Caesar		
+Second Guard		Male	2	Antony and Cleopatra		
+Second Guard Of Caesar'S		Male	2	Antony and Cleopatra		
+Gallus		Male	2	Antony and Cleopatra		
+Romans		Male	2	Titus Andronicus		
+Court		Male	2	Henry V		
+York		Male	2	Henry V		
+Brothers		Male	2	Cymbeline		
+All Citizens		Male	2	King Edward III		
+Palamon And Arcite		Male	2	The Two Noble Kinsmen		
+Gobin		Male	2	King Edward III		
+Second Murderer		Male	2	Henry VI Part 2		
+Second Neighbour		Male	2	Henry VI Part 2		
+Soldier		Male	2	Henry VI Part 3		
+All Soldiers		Male	2	Antony and Cleopatra		
+Huntsman		Male	2	Henry VI Part 3		
+Nobleman		Male	2	Henry VI Part 3		
+Third Neighbour		Male	2	Henry VI Part 2		
+Second Prentice		Male	2	Henry VI Part 2		
+Servant		Male	2	Henry VI Part 2		
+Deiphobus		Male	2	Troilus and Cressida		
+Boy		Male	2	Troilus and Cressida		
+All		Male	2	Troilus and Cressida		
+Second Soldier		Male	2	All's Well That Ends Well		
+Soldiers		Male	2	Troilus and Cressida		
+Second Fairy		Male	2	A Midsummer Night's Dream		
+Moth		Male	2	A Midsummer Night's Dream		
+Peter		Male	2	The Taming of the Shrew		
+Leonardo		Male	2	The Merchant of Venice		
+Man		Male	2	The Merchant of Venice		
+Page		Male	1	All's Well That Ends Well		
+Both Lords		Male	1	All's Well That Ends Well		
+All Soldiers		Male	1	All's Well That Ends Well		
+All The Lords		Male	1	All's Well That Ends Well		
+Attendant		Male	1	All's Well That Ends Well		
+Nicholas		Male	1	The Taming of the Shrew		
+Joseph		Male	1	The Taming of the Shrew		
+First Servingman Of Petruchio		Male	1	The Taming of the Shrew		
+Gremio And Tranio		Male	1	The Taming of the Shrew		fool
+Grumio And Biondello		Male	1	The Taming of the Shrew		fool
+Haberdasher		Male	1	The Taming of the Shrew		
+Philip		Male	1	The Taming of the Shrew		
+Players		Male	1	The Taming of the Shrew		
+Servingman		Male	1	The Taming of the Shrew		
+All		Male	1	The Merchant of Venice		
+Balthasar		Male	1	The Merchant of Venice		
+Carpenter		Male	1	Julius Caesar		
+All Fairies		Male	1	A Midsummer Night's Dream		
+All Mechanicals		Male	1	A Midsummer Night's Dream		
+Fourth Lord		Male	1	All's Well That Ends Well		
+Widow And Mariana		Female	1	All's Well That Ends Well		
+Man		Male	1	Troilus and Cressida		
+Myrmidons		Male	1	Troilus and Cressida		
+Soldier		Male	1	Henry VI Part 2		
+Warwick And Salisbury		Male	1	Henry VI Part 2		
+Albany And Cornwall		Male	1	King Lear		
+Sir John		Male	1	Henry VI Part 3		
+Second Messenger		Male	1	Henry VI Part 3		
+Nell		Female	1	The Two Noble Kinsmen		
+Third Knight		Male	1	The Two Noble Kinsmen		
+Taborer		Male	1	The Two Noble Kinsmen		
+All Attendants		Male	1	Antony and Cleopatra		
+All Caesar'S Attendants		Male	1	Antony and Cleopatra		
+All Lords		Male	1	Antony and Cleopatra		
+All Frenchmen		Male	1	King Edward III		
+Holofernes As Judas		Male	1	Love's Labour's Lost		
+First Esquire		Male	1	King Edward III		
+Cloten And Lords		Male	1	Cymbeline		fool
+All		Male	1	Cymbeline		
+A Lord		Male	1	Much Ado About Nothing		
+Lords		Male	1	Coriolanus		
+Warwick		Male	1	Henry V		
+First Lady		Female	1	Cymbeline		
+Ladies		Female	1	Cymbeline		
+Guiderius And Arviragus		Male	1	Cymbeline		
+Second Gaoler		Male	1	Cymbeline		
+Second Senator		Male	1	Cymbeline		
+Gaoler		Male	1	The Comedy of Errors		
+All		Male	1	Henry V		
+Grey And Scroop		Male	1	Henry V		
+Herald		Male	1	Henry V		
+Angelo And Escalus		Male	1	Measure for Measure		
+All Servants		Male	1	The Taming of the Shrew		
+All Servingmen		Male	1	The Taming of the Shrew		
+Third Guard		Male	1	Antony and Cleopatra		
+Taurus		Male	1	Antony and Cleopatra		
+Second Gentleman		Male	1	Henry VI Part 2		
+Fourth Soldier		Male	1	Antony and Cleopatra		
+Maecenas And Agrippa		Male	1	Antony and Cleopatra		
+Second Attendant		Male	1	Antony and Cleopatra		
+All The Servants		Male	1	Antony and Cleopatra		
+All The Soldiers		Male	1	Antony and Cleopatra		
+All The Triumvirs		Male	1	Antony and Cleopatra		
+First Attendant		Male	1	Antony and Cleopatra		
+Captain		Male	1	Antony and Cleopatra		
+All The Others		Male	1	The Two Noble Kinsmen		
+All Three Knights		Male	1	The Two Noble Kinsmen		
+Bavian		Male	1	The Two Noble Kinsmen		
+Second Esquire		Male	1	King Edward III		
+Second Messenger		Male	1	King Edward III		
+Lords		Male	1	Henry V		
+Plebeians		Male	1	Julius Caesar		
+First Soldier		Male	1	Julius Caesar		
+All		Male	1	Henry VI Part 1		
+Third Soldier		Male	1	Julius Caesar		
+Titinius And Messala		Male	1	Julius Caesar		
+Glansdale		Male	1	Henry VI Part 1		
+First Sentinel		Male	1	Henry VI Part 1		
+All		Male	1	Henry VIII		
+Second Warder		Male	1	Henry VI Part 1		
+Servant		Male	1	Henry VI Part 1		
+Legate		Male	1	Henry VI Part 1		
+Porter		Male	1	Henry VI Part 1		
+Second And Third Gentlemen		Male	1	Henry VIII		
+Page		Male	1	Henry VIII		
+Macbeth And Lennox		Male	1	Macbeth		
+Soldiers		Male	1	Macbeth		
+Servant		Male	1	The Two Gentlemen of Verona		
+Outlaws		Male	1	The Two Gentlemen of Verona		
+All		Male	1	Richard II		
+Second Messenger		Male	1	Henry IV Part 1		
+Second Traveller		Male	1	Henry IV Part 1		
+Ostler		Male	1	Henry IV Part 1		
+Second Man		Male	1	Richard II		
+First Messenger		Male	1	Henry IV Part 1		
+All Lords		Male	1	Pericles		
+Second Officer		Male	1	King Lear		
+Second Groom		Male	1	Henry IV Part 2		
+Princes		Male	1	Henry IV Part 2		
+Thieves		Male	1	Henry IV Part 1		
+Gloucester And Clarence		Male	1	Henry IV Part 2		
+First Groom		Male	1	Henry IV Part 2		
+Martius And Quintus		Male	1	Titus Andronicus		
+All Petitioners		Male	1	Henry VI Part 2		
+All The Goths		Male	1	Titus Andronicus		
+Conrade And Borachio		Male	1	Much Ado About Nothing		
+Master		Male	1	Henry VI Part 2		
+Mate		Male	1	Henry VI Part 2		
+Edward		Male	1	Henry VI Part 2		
+Patricians		Male	1	Coriolanus		
+Noble		Male	1	Coriolanus		
+Officer		Male	1	Coriolanus		
+Lieutenant		Male	1	Coriolanus		
+First Roman		Male	1	Coriolanus		
+Both Citizens		Male	1	Coriolanus		
+Gurney		Male	1	King John		
+All Roman Soldiers		Male	1	Coriolanus		
+Aediles		Male	1	Coriolanus		
+Pembroke And Bigot		Male	1	King John		
+Peter		Male	1	King John		
+John And Robert		Male	1	The Merry Wives of Windsor		
+Mistress Ford And Mistress Page		Female	1	The Merry Wives of Windsor		
+Robert		Male	1	The Merry Wives of Windsor		
+Gentlemen		Male	1	Othello		
+Senators		Male	1	Othello		
+All		Male	1	Othello		
+All Lords		Male	1	Othello		
+Gentlemen		Male	1	Hamlet		
+Marcellus And Barnardo		Male	1	Hamlet		
+All The Ladies		Female	1	Timon of Athens		
+All The Lords		Male	1	Timon of Athens		
+All		Male	1	Timon of Athens		
+Voices		Male	1	Hamlet		
+Voltemand And Cornelius		Male	1	Hamlet		
+Phrynia		Female	1	Timon of Athens		
+Others		Male	1	Timon of Athens		
+Lucullus And Lucius		Male	1	Timon of Athens		
+First Lady		Female	1	Timon of Athens		
+Both Senators		Male	1	Timon of Athens		
+Both Varro'S Servants		Male	1	Timon of Athens		
+Fourth Senator		Male	1	Timon of Athens		
+All		Male	1	Henry VI Part 3		
+First Messenger		Male	1	Henry VI Part 3		
+Third Stranger		Male	1	Timon of Athens		
+Some		Male	1	Timon of Athens		
+Servants		Male	1	Timon of Athens		
+Mariners		Male	1	The Tempest		
+Ferdinand And Miranda		Male	1	The Tempest		
+Cleomenes And Dion		Male	1	The Winter's Tale		
+Senators		Male	1	Coriolanus		
+Second Soldier		Male	1	Coriolanus		
+Second Roman		Male	1	Coriolanus		
+Third Roman		Male	1	Coriolanus		
+Virgilia And Valeria		Female	1	Coriolanus		
+Tribunes		Male	1	Coriolanus		
+A Follower		Male	1	Romeo and Juliet		
+Fiddler		Male	1	Romeo and Juliet		
+Friar John		Male	1	Romeo and Juliet		
+Second Watchman		Male	1	Romeo and Juliet		
+Third Musician		Male	1	Romeo and Juliet		
+Third Servingman		Male	1	Romeo and Juliet		
+Watchman		Male	1	Romeo and Juliet		
+Second Pirate		Male	1	Pericles		
+Second Knight		Male	1	Pericles		
+Marshal		Male	1	Pericles		
+Messenger		Male	1	Pericles		
+Pericles And Thaisa		Male	1	Pericles		
+Philemon		Male	1	Pericles		
+Third Lord Of Pentapolis		Male	1	Pericles		
+Third Knight		Male	1	Pericles		
+Surrey		Male	1	Richard III		
+Vaughan		Male	1	Richard III		
+First Gentleman Of Tyre		Male	1	Pericles		
+First And Second Murderer		Male	1	Richard III		
+All		Male	1	Richard III		
+Ghost Of Grey		Male	1	Richard III		
+Herbert		Male	1	Richard III		
+Queen Elizabeth And Duchess Of York		Female	1	Richard III		
